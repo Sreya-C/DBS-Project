@@ -1,7 +1,8 @@
 # DBS-Project
 Library Management
 
-Snapshots of the working application: 
+Snapshots of the working application:
+
 ![image](https://github.com/Sreya-C/DBS-Project/assets/98732604/5bd2966d-0060-4604-93b2-70d62fc3c6da)
 
 
